@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jawadkhanpk
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 100daysofcodechallenge
 - 📫 How to reach me jawadkhan.tech@gmail.com
